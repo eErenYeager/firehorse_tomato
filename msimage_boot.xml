@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<data>
+  <program SECTOR_SIZE_IN_BYTES="512" file_sector_offset="0" filename="8936_msimage.mbn" label="PrimaryGPT" num_partition_sectors="8192" physical_partition_number="0" size_in_KB="4096.0" sparse="false" start_byte_hex="0x0" start_sector="0" />
+</data>
